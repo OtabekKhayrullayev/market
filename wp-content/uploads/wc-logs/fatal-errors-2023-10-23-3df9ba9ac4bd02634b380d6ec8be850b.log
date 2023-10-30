@@ -1,0 +1,6 @@
+2023-10-23T04:36:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OSPanel\domains\market\wp-content\plugins\elementor\app\modules\onboarding\module.php на строке 14
+
+2023-10-23T09:11:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OSPanel\domains\market\wp-content\plugins\ti-woocommerce-wishlist\integrations\woocommerce-product-table.php на строке 16
+
+2023-10-23T14:50:28+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OSPanel\domains\market\wp-content\plugins\elementor\includes\elements\repeater.php на строке 4
+
